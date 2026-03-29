@@ -1,0 +1,38 @@
+body {
+  font-family: 'Comic Sans MS';
+  background: #a0e9ff;
+  text-align: center;
+}
+
+body.night {
+  background: #1e1e2f;
+  color: white;
+}
+
+button {
+  font-size: 18px;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+.page {
+  background: white;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+body.night .page {
+  background: #2c2c3c;
+}
+
+.page img {
+  width: 100%;
+  height: 150px;
+  border-radius: 10px;
+}
+
+span.active {
+  background: yellow;
+  color: black;
+}
