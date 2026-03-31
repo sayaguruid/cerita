@@ -4,7 +4,7 @@ const stories = [
     pages: [
       {
         text: "Pada suatu hari ada kelinci yang sombong",
-        image: "images/1.jpg",
+        image: "images/1.webp",
         audio: "audio/1.mp3"
       },
       {
